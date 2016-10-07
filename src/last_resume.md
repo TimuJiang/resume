@@ -35,39 +35,35 @@
 
 ---
 
-#### _2016/3-至今_ 浙江佐助金融信息服务有限公司
-*web前端工程师*  
-语言：`JavaScript`,`html5`,`css3`
-
-软件：`webstorm`,`atom、sublime等新出的JS IDE`
-
-平台框架库：`angularjs`,`jquery`,`gulp`,`nodejs`,`nginx`,`git`
+#### _2016/3-至今_ 浙江佐助金融信息服务有限公司 `[web前端工程师]`
+*web前端工程师* 
+ 
+- 语言：`JavaScript`,`html5`,`css3`
+- 软件：`webstorm`,`atom、sublime等新出的JS IDE`
+- 平台框架库：`angularjs`,`jquery`,`gulp`,`nodejs`,`nginx`,`git`
 ###### 工作内容
 - 公司官网，产品网站维护和开发
 - 移动端网页开发
 - 新的前端技术的预研发和学习
 
 ---
-#### _2014/3-2015/3_ 浙江网新恒天软件有限公司
-*web前端工程师*
-语言：`HTML+CSS`,`JavaScript`,`html5`,`css3`
-
-软件：`VS`
-
-平台框架库：`requirejs`,`backbone`,`angularjs`,`jquery`,`underscore`
+#### _2014/3-2015/3_ 浙江网新恒天软件有限公司 `[web前端工程师]`
+###### 工作技能:
+- 语言：`HTML+CSS`,`JavaScript`,`html5`,`css3`
+- 软件：`VS`
+- 平台框架库：`requirejs`,`backbone`,`angularjs`,`jquery`,`underscore`
 ###### 工作内容
 - 两个大型的web前端项目的bug修改和维护
 - 帮助实习生熟悉项目开发
 
 ---
-#### _2013/3-2014/3_ 浙江九峰软件有限公司
-*AS3游戏前端工程师*
+#### _2013/3-2014/3_ 浙江九峰软件有限公司 `[AS3游戏前端工程师]`
+
 ###### 工作技能:
-语言：`HTML+CSS`,`ActionScript3`
 
-软件：`Photoshop`,`Flash`,`FlexBulider`,`svn`
-
-平台框架：`Flex Air`,`Flex SDK`,`团队自己维护的游戏框架`
+- 语言：`HTML+CSS`,`ActionScript3`
+- 软件：`Photoshop`,`Flash`,`FlexBulider`,`svn`
+- 平台框架：`Flex Air`,`Flex SDK`,`团队自己维护的游戏框架`
 
 ###### 工作内容
  - 负责美术资源的处理，PS切图;
@@ -76,14 +72,12 @@
  - 游戏的前端逻辑模块,UI组件的编写
 
 ---
-#### _2011/7-2013/3_ 杭州天极峰娱乐有限公司
-*程序美工/AS3游戏前端工程师*
+#### _2011/7-2013/3_ 杭州天极峰娱乐有限公司 `[程序美工/AS3游戏前端工程师]`
+
 ###### 工作技能:  
-语言：`HTML+CSS`,`ActionScript3`
-
-软件：`Photoshop`,`Flash`,`FlexBulider`,`svn`
-
-平台框架：`Flex Air`,`Flex SDK`
+- 语言：`HTML+CSS`,`ActionScript3`
+- 软件：`Photoshop`,`Flash`,`FlexBulider`,`svn`
+- 平台框架：`Flex Air`,`Flex SDK`
 
 ###### 工作内容
 
@@ -94,13 +88,10 @@
  - 参与项目,兵临城下2,江湖;
 
 ---
-#### _2010/9-2011/7_ 杭州视界科技 
-*网页美工*
-
+#### _2010/9-2011/7_ 杭州视界科技 `[网页美工]`
 ###### 工作技能:  
-语言：`HTML+CSS`  
-
-软件：`Photoshop`,`Flash`
+- 语言：`HTML+CSS`  
+- 软件：`Photoshop`,`Flash`
 ###### 工作内容：
 
  - 公司产品宣传册的设计
