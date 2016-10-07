@@ -1,101 +1,108 @@
 # resume
 
-��ҵ�ڶ���������������������ѧУ��������`��Ϣ������ѧ`רҵ��ѧУ���ֲ��ǲ������ݣ����˽������̸������
+昵称：肉松饭
 
+联系方式：`657754709`*（wechat/qq）*
 
-#### ְҵ����
-������������ҳ������flash/flex��Ϸǰ�ˣ�webǰ��...
+毕业于二流（可能是三流）本科学校，读的是`信息与计算科学`专业，学校名字不是不敢启齿，想了解可以面谈，哈哈
 
-���/��������һ�����(������ģ�©�.��||),����ʹ��PS��ͼ(�Լ����Լ���ͼ����Ҫ��������ͼ��������ְ������.��||)
+#### 职业技能
+**工作经历：**网页美工，flash/flex游戏前端，web前端...
 
-flash/flex��Ϸǰ�ˣ�����ת������ǰ�˴����ְ��̵ֽģ��츳��������Ȼѧ�ĺܿ�_(:3 ����)��������̨C++����ҵ�����񾭳���С�����ʲô���ģʽ���յĻ����ԣ����ȥ��֯һ�������ĺ�̨���Ҳ��Щ�˽⣬�䲻����̨������������ǰ��˽�����bug�Ų��кܴ����;
+**设计/美工：**会一点设计(基本是模仿─.─||),熟练使用PS切图(自己给自己切图，还要给别人切图，开发兼职美工─.─||)
 
-webǰ��:������ΪĳЩ���ɿ��ܵ�ԭ���Ŷӽ�ɢ��Ҳ������Ϸʧȥ���ģ�����תսwebǰ�����Ǻ�������Ϊ�츳������ת�͵Ļ�����_(:3 ����)
+**flash/flex游戏前端：**美工转开发，前端大神手把手教的，天赋异禀，自然学的很快_(:3 」∠)后来跟后台C++大神创业，大神经常开小灶，所以什么设计模式掌握的还可以，如何去组织一个基本的后台框架也有些了解，虽不做后台开发，但对于前后端交互和bug排查有很大帮助;
 
-�Ա�ҵ�����ڻ��۵Ķ���������Ƶ���������ǰ�˿��������򵥷���ˣ���������������С����վ
-�����ڵ�Ŀ����JSȫջ����ʦ;
+**web前端:**后来因为某些不可抗拒的原因团队解散，也对做游戏失去信心，于是转战web前端于是乎还是因为天赋异禀，转型的还可以_(:3 」∠)
 
-�����һ���ܽ��(����װ��B)
-- ��Ϊ��ơ�����������ʹ��PS��ͼ����һ�����;
-- ��Ϊ����������ʱ��ʹ�����ģʽ��Ӧ�ù�һЩǰ���ͨ�ŷ�ʽ��ajax,socket,amf���̨����������ά����һ���Ŷ��Լ�����Ϸ���
-- Ŀǰ��Ϊwebǰ�ˣ�
-- ʹ�ù���js����߿��:`requirejs`,`backbone`,`angularjs`,`jquery`,`underscore`,
-- ǰ�˹������ߣ�`gulp`,`webpack`
-- css�������ߣ�`sass`
-- ʹ����(nodejs+npm+bower)Ϊ�����Ĺ��ߣ��ǰ���Զ�����Ŀ;
-- ���ڽ��еķ���
-- node,mongodb,redis,nginx
-- express+mongoose ��򵥵ĺ�̨ϵͳ
+以毕业到现在积累的东西，从设计到美工，到前端开发，到简单服务端，有能力独立开发小型网站
+，现在的目标是JS全栈工程师;
 
+这段做一个总结吧(容我装个B)
 
-#### _2016/3-����_ �㽭����������Ϣ�������޹�˾
-*webǰ�˹���ʦ*  
-���ԣ�`JavaScript`,`html5`,`css3`
+- **作为设计、美工：**熟练使用PS切图，会一点设计;
+- **作为开发：**能适时的使用设计模式，应用过一些前后端通信方式，`ajax,socket,amf`与后台交互，开发维护过一个团队自己的游戏框架
+- **目前作为web前端：**
+- **使用过的js库或者框架:**`requirejs`,`backbone`,`angularjs`,`jquery`,`underscore`,
+- **前端构建工具：**`gulp`,`webpack`
+- **css构建工具：**`sass`
+- **模板语言：**`jade(pug)`
+- 使用以(`nodejs+npm+bower`)为基础的工具，搭建前端自动化项目;
+- `express+mongoose` 搭建简单的后台系统
+- **正在进行的方向：**
+- `node,mongodb,redis,nginx`
 
-������`webstorm`,`atom��sublime���³���JS IDE`
-
-ƽ̨��ܿ⣺`angularjs`,`jquery`,`gulp`,`nodejs`,`nginx`,`git`
-###### ��������
-- ��˾��������Ʒ��վά���Ϳ���
-- �ƶ�����ҳ����
-- �µ�ǰ�˼�����Ԥ�з���ѧϰ
 
 ---
-#### _2014/3-2015/3_ �㽭���º����������޹�˾
-*webǰ�˹���ʦ*
-���ԣ�`HTML+CSS`,`JavaScript`,`html5`,`css3`
 
-������`VS`
+#### _2016/3-至今_ 浙江佐助金融信息服务有限公司
+*web前端工程师*  
+语言：`JavaScript`,`html5`,`css3`
 
-ƽ̨��ܿ⣺`requirejs`,`backbone`,`angularjs`,`jquery`,`underscore`
-###### ��������
-- �������͵�webǰ����Ŀ��bug�޸ĺ�ά��
-- ����ʵϰ����Ϥ��Ŀ����
+软件：`webstorm`,`atom、sublime等新出的JS IDE`
 
----
-#### _2013/3-2014/3_ �㽭�ŷ��������޹�˾
-*AS3��Ϸǰ�˹���ʦ*
-###### ��������:
-���ԣ�`HTML+CSS`,`ActionScript3`
-
-������`Photoshop`,`Flash`,`FlexBulider`,`svn`
-
-ƽ̨��ܣ�`Flex Air`,`Flex SDK`,`�Ŷ��Լ�ά������Ϸ���`
-
-###### ��������
- - ����������Դ�Ĵ�����PS��ͼ;
- - ����flash�ű�jsfl����������Ϸ��Դ
- - ��Դ��������,����ͼ���ߣ���ͼ�༭�������ñ��༭��;
- - ��Ϸ��ǰ���߼�ģ��,UI����ı�д
+平台框架库：`angularjs`,`jquery`,`gulp`,`nodejs`,`nginx`,`git`
+###### 工作内容
+- 公司官网，产品网站维护和开发
+- 移动端网页开发
+- 新的前端技术的预研发和学习
 
 ---
-#### _2011/7-2013/3_ �����켫���������޹�˾
-*��������/AS3��Ϸǰ�˹���ʦ*
-###### ��������:  
-���ԣ�`HTML+CSS`,`ActionScript3`
+#### _2014/3-2015/3_ 浙江网新恒天软件有限公司
+*web前端工程师*
+语言：`HTML+CSS`,`JavaScript`,`html5`,`css3`
 
-������`Photoshop`,`Flash`,`FlexBulider`,`svn`
+软件：`VS`
 
-ƽ̨��ܣ�`Flex Air`,`Flex SDK`
-
-###### ��������
-
- - ����������Դ�Ĵ�����PS��ͼ;
- - ����flash�ű�jsfl����������Ϸ��Դ
- - һЩ��������ͼƬ��С����,����ͼ���ߣ���ͼ�༭��;
- - ���ϷUI����;
- - ������Ŀ,���ٳ���2,����;
+平台框架库：`requirejs`,`backbone`,`angularjs`,`jquery`,`underscore`
+###### 工作内容
+- 两个大型的web前端项目的bug修改和维护
+- 帮助实习生熟悉项目开发
 
 ---
-#### _2010/9-2011/7_ �����ӽ�Ƽ� 
-*��ҳ����*
+#### _2013/3-2014/3_ 浙江九峰软件有限公司
+*AS3游戏前端工程师*
+###### 工作技能:
+语言：`HTML+CSS`,`ActionScript3`
 
-###### ��������:  
-���ԣ�`HTML+CSS`  
+软件：`Photoshop`,`Flash`,`FlexBulider`,`svn`
 
-������`Photoshop`,`Flash`
-###### �������ݣ�
+平台框架：`Flex Air`,`Flex SDK`,`团队自己维护的游戏框架`
 
- - ��˾��Ʒ����������
- - ��Ʊ����վ��ƣ���ҳ��̬ҳ����������վά��   
- - ������Ʊ��UI��ƣ�ǰ��flash�ű���д��ǰ���߼�չʾ��c#����
+###### 工作内容
+ - 负责美术资源的处理，PS切图;
+ - 利用flash脚本jsfl批量处理游戏资源
+ - 资源处理工具,如切图工具，地图编辑器，配置表编辑器;
+ - 游戏的前端逻辑模块,UI组件的编写
+
+---
+#### _2011/7-2013/3_ 杭州天极峰娱乐有限公司
+*程序美工/AS3游戏前端工程师*
+###### 工作技能:  
+语言：`HTML+CSS`,`ActionScript3`
+
+软件：`Photoshop`,`Flash`,`FlexBulider`,`svn`
+
+平台框架：`Flex Air`,`Flex SDK`
+
+###### 工作内容
+
+ - 负责美术资源的处理，PS切图;
+ - 利用flash脚本jsfl批量处理游戏资源
+ - 一些批量处理图片的小工具,如切图工具，地图编辑器;
+ - 搭建游戏UI界面;
+ - 参与项目,兵临城下2,江湖;
+
+---
+#### _2010/9-2011/7_ 杭州视界科技 
+*网页美工*
+
+###### 工作技能:  
+语言：`HTML+CSS`  
+
+软件：`Photoshop`,`Flash`
+###### 工作内容：
+
+ - 公司产品宣传册的设计
+ - 易票购网站设计，网页静态页面制作，网站维护   
+ - 自助售票机UI设计，前端flash脚本编写，前端逻辑展示与c#交互
